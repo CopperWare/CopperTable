@@ -9,21 +9,39 @@
   },
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
+=======
     "babel-preset-env": "^1.7.0",
+>>>>>>> master
     "less": "^3.8.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
+<<<<<<< HEAD
+    "babel-eslint": "^9.0.0",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "eslint": "^5.6.0",
+    "eslint-plugin-react": "^7.11.1",
+=======
     "babel-loader": "^7.1.5",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "css-loader": "^1.0.0",
+>>>>>>> master
     "less-loader": "^4.1.0",
     "mini-css-extract-plugin": "^0.4.2",
     "react-hot-loader": "^4.3.3",
     "style-loader": "^0.23.0",
+<<<<<<< HEAD
+    "stylelint": "^9.5.0",
+=======
+>>>>>>> master
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8",
     "webpack-dev-server": "^3.1.4",
