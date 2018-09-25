@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+---
+# Alex:
+
+# WebStorm Stuff
+.idea/
+
+#Lint
+.eslintrc.json
+.stylelintrc.json
+
+#We said we'd use npm
+yarn.lock
