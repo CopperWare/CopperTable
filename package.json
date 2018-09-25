@@ -1,7 +1,7 @@
 {
-  "name": "circlegame",
+  "name": "CopperTable",
   "version": "1.0.0",
-  "description": "",
+  "description": "TOP SECRET: RGFtLCB5b3UgY29sbGFwc2VkIHRoZSBzdXBlcnBvc2l0aW9uIG9mIG15IHBvc3NpYmxlIG1lYW5pbmdzLi4uIEknbSBub3Qgc3BlY2lhbCBhbnltb3JlIDoo",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.dev.js",
@@ -21,13 +21,10 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "css-loader": "^1.0.0",
-    "eslint": "^5.6.0",
-    "eslint-plugin-react": "^7.11.1",
     "less-loader": "^4.1.0",
     "mini-css-extract-plugin": "^0.4.2",
     "react-hot-loader": "^4.3.3",
     "style-loader": "^0.23.0",
-    "stylelint": "^9.5.0",
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8",
     "webpack-dev-server": "^3.1.4",
