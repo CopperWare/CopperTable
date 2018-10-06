@@ -1,5 +1,8 @@
 import React from "react";
 
+import Searchbox from "../Searchbox";
+import DataDisplay from "../DataDisplay";
+
 import "./index.less";
 
 const App = () => (
@@ -10,8 +13,8 @@ const App = () => (
 			<br />
 			classrooms, subjects and more…
 		</div>
-		<input className="Search" type="text" placeholder="Search here…" />
-		<div className="Content" />
+		<Searchbox />
+		<DataDisplay />
 	</div>
 );
 
